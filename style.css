@@ -1,0 +1,169 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: 'Poppins', sem serifa;
+}
+
+header{
+    margin: 47px 36px 190px 42px;
+   
+    
+}
+.link-header{
+    margin-right: 36px;
+    font-family: 'Poppins', sem serifa;
+    font-weight: 400;
+    font-style: normal;
+    color: #17233D;
+    cursor: pointer;
+}
+#button-header{
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sem serifa;
+    font-weight: 500px;
+    cursor: pointer;
+ 
+}
+.principal{
+    display:inline-block;
+    
+}
+
+.img-main{
+   margin-left: 50px;
+}
+
+
+section{
+    display: inline-block;
+    margin-left: 97px;
+    
+}
+ section h1{
+    width: 582px;
+    color: #161A49;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    padding-bottom: 47px;
+   
+
+ }
+ section p{
+    width: 493px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    margin-bottom: 45px;
+    color: #4B505A;
+  
+ }
+ section a{
+    height: 27px;
+    left: 55.62%;
+    right: 36.6%;
+    top: calc(50% - 27px/2 + 296.5px);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    color: #6FBF44;
+    cursor: pointer;
+
+
+ }
+
+ @media screen and (max-width:600px ){
+    .link-header{
+        display: none;   
+    }
+
+    .principal{
+        display: block;
+       
+    }
+    .img-main{
+        width: 79%;
+        height: 34%;
+        position: absolute;
+        top: 491px;
+        left: 0px;
+        right: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+     }
+
+     section{
+        display: block;
+        margin: 0;
+        
+    }
+
+    section h1{
+      text-align: center;
+      font-size: 30px;
+      line-height: 30px;
+      Width:278px;
+      Height:60px;
+      margin: -24px 55px 29px 57px;
+      padding: 0;
+     }
+
+        section p{
+        width: auto;
+        font-size: 18px;
+        line-height: 36px;
+        text-align: center;
+        margin: 0px 43px;
+        }
+        section a{
+            margin: 0 auto;
+            display: block;
+            text-align: center;
+            padding-top: 15px;
+        }
+            #button-header{
+            position:absolute;
+            top: 20px;
+            right: 12px;
+            }
+        }
+
+
+ @media screen and (max-width:380px ){
+    .img-main{
+        width: 74%;
+        height: 32%;
+        margin-top: -108px;
+    }
+    section h1{
+        margin: -56px 55px 29px 57px;
+        font-size: 25px;
+      }
+
+       section p{
+        font-size: 12px;
+         }
+
+        #button-header{
+            position: absolute;
+            top: 11px;
+            right: 23px;
+            width: 64px;
+            height: 35px;
+            }
+ }
+
+
+
+
+
