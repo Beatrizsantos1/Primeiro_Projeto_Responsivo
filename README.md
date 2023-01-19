@@ -1,4 +1,4 @@
-# Wide-coverage-location4
+<h1> Wide-coverage-location </h1>
 </br>
 </br>
 
@@ -15,5 +15,8 @@
 
 <p> Desktop</p>
 <img src="https://github.com/Beatrizsantos1/Wide-coverage-location/blob/master/img/foto%20da%20pag.png?raw=true"/>
+
+<p> Mobile</p>
+<img src="https://github.com/Beatrizsantos1/Wide-coverage-location/blob/master/img/foto-pag-responsivo.JPG?raw=true"/>
 
 
