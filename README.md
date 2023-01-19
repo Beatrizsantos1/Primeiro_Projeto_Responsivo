@@ -13,6 +13,7 @@
 
 <h2> Loyout da pagina no desktop e mobile: </h2>
 
-
+<p> Desktop</p>
+<img src="https://github.com/Beatrizsantos1/Wide-coverage-location/blob/master/img/foto%20da%20pag.png?raw=true"/>
 
 
